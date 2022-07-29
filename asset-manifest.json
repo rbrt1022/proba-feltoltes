@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proba-feltoltes/static/css/main.073c9b0a.css",
+    "main.js": "/proba-feltoltes/static/js/main.960e48a1.js",
+    "static/js/787.2ffe6a17.chunk.js": "/proba-feltoltes/static/js/787.2ffe6a17.chunk.js",
+    "static/media/logo.svg": "/proba-feltoltes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proba-feltoltes/index.html",
+    "main.073c9b0a.css.map": "/proba-feltoltes/static/css/main.073c9b0a.css.map",
+    "main.960e48a1.js.map": "/proba-feltoltes/static/js/main.960e48a1.js.map",
+    "787.2ffe6a17.chunk.js.map": "/proba-feltoltes/static/js/787.2ffe6a17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.960e48a1.js"
+  ]
+}
